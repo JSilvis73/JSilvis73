@@ -1,7 +1,3 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
 # 👋 Hi, I’m Jason Silvis
 I'm a self-driven software developer transitioning from a healthcare background and currently working toward full-stack development using C#, .NET, SQL Server, React, and Azure.
 
